@@ -8,10 +8,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/mkellsy/homebridge-config-ui.git"
+        "url": "git://github.com/Leeacc/homebridge-config-ui.git"
     },
     "bugs": {
-        "url": "https://github.com/mkellsy/homebridge-config-ui/issues"
+        "url": "https://github.com/Leeacc/homebridge-config-ui/issues"
     },
     "engines": {
         "node": ">=0.12.0",
